@@ -5,8 +5,8 @@ Autor: Jaime Rabasco Ronda.
 """
 class Perro:
 
-    def ladrar(self):
+    def ladra(self):
         print('Guau');
 
 p = Perro();
-p.ladrar();
+p.ladra();
